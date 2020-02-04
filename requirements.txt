@@ -1,4 +1,5 @@
-numpy
-xlrd
 pandas
+numpy
 ortools
+openpyxl
+xlrd
